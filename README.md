@@ -1,7 +1,3 @@
-# Framok downloads
+# Framok
 
-Framok is a screen recorder for Windows: automatic zoom on every click, a cursor that glides, a webcam bubble, beautiful framing and 4K export.
-
-Download the latest installer from the Releases page or straight from https://github.com/dylankbuilds/framok-releases/releases/latest/download/Framok-Setup.exe
-
-Site: https://framok.com
+Framok is a Windows screen recorder that zooms in on your clicks. This repo only hosts the update files. The current version, features and pricing are at https://framok.com
